@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=[01] Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[01] Block Diagram.SchDoc|FileName=[02] LDO and LiPo Circuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[01] Block Diagram.SchDoc|FileName=[03] ESP32.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[01] Block Diagram.SchDoc|FileName=[04] GPS.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[01] Block Diagram.SchDoc|FileName=[05] External Modules.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[01] Block Diagram.SchDoc|FileName=[06] LTE - A7670C.SchDoc|SheetNumber=6
